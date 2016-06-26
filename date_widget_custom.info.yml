@@ -1,0 +1,7 @@
+name: Date Widget Custom
+type: module
+description: 'Widget for datetime fileds with user defined format date.'
+package: SpaCagliari
+core: 8.x
+dependencies:
+  - datetime
